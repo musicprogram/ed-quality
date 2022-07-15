@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1737f4e.css",
+    "main.js": "/static/js/main.48a25902.js",
+    "static/js/787.8834850b.chunk.js": "/static/js/787.8834850b.chunk.js",
+    "static/media/logoNaranja.png": "/static/media/logoNaranja.39d8ca26d7803bbc10d3.png",
+    "static/media/perilla.png": "/static/media/perilla.6b7a4aee68c1ae2ff3fd.png",
+    "static/media/cuello.png": "/static/media/cuello.438e7fdd85601f6f6b99.png",
+    "static/media/puño.png": "/static/media/puño.fde7fb753b0be9f55c86.png",
+    "static/media/bajo.png": "/static/media/bajo.48cf47a578308be0137d.png",
+    "static/media/sennova-sena-logo.png": "/static/media/sennova-sena-logo.f0c68e4fc32d33ee01c5.png",
+    "static/media/inamod.png": "/static/media/inamod.066b880f08e3cb0ff388.png",
+    "index.html": "/index.html",
+    "main.f1737f4e.css.map": "/static/css/main.f1737f4e.css.map",
+    "main.48a25902.js.map": "/static/js/main.48a25902.js.map",
+    "787.8834850b.chunk.js.map": "/static/js/787.8834850b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1737f4e.css",
+    "static/js/main.48a25902.js"
+  ]
+}
